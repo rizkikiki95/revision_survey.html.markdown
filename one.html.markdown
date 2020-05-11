@@ -12,10 +12,10 @@
 	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlYil7YZEhjeCPt03z3h4kTjV8ZbTOvB45B-u8EX560Jc29g/viewform?usp=sf_link" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5201.jpg" width="30%"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://www.youtube.com/watch?v=jOR5mQ7BC2c" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/05/happy-europe-day.jpg" width="80%"</a>
+	 <a href="https://www.youtube.com/watch?v=4S5slVj_z3I" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/05/happy-europe-day.jpg" width="80%"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://www.youtube.com/watch?v=4S5slVj_z3I"><img src="https://aseanyouthnet.files.wordpress.com/2020/05/eu_day_flag-22.jpg" width="80%"</a>
+	 <a href="https://www.youtube.com/watch?v=jOR5mQ7BC2c"><img src="https://aseanyouthnet.files.wordpress.com/2020/05/eu_day_flag-22.jpg" width="80%"</a>
      <tr>
        <td align="center" valign="top">
          <table border="0" cellpading="0" cellspacing="0" width="900" id="templateFooter">
