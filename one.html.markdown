@@ -5,7 +5,7 @@
     <td align="center" width="100%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
        <tr>
-	<img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5199.jpeg" width="69%">    
+	<a href="https://bit.ly/MemberSatisfactionAYO2020" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5199.jpeg" width="69%">    
       </tr>
      </table>
      <table border="0" cellpadding="5" cellspacing="0" width="100" id="templateBody">
